@@ -1,2 +1,2 @@
-# MVCMovie
-Learning ASP.NET Core by making a movies database
+# MVC Movie Website
+Learning ASP.NET Core MVC by making a movies database
